@@ -5,7 +5,7 @@ description = ""
 authors = ["dmitrij <dimaprusskii@mail.ru>"]
 
 [tool.poetry.dependencies]
-python = "~3.9.5"
+python = "~3.8.5"
 numpy = "^1.21.2"
 jupyter = "^1.0.0"
 ipykernel = "^6.4.1"
